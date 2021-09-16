@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NASA Pictures</string>
+    <string name="copyright">&#169; %1$s</string>
+</resources>
