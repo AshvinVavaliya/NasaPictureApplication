@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation">10dp</dimen>
+    <dimen name="corner">15dp</dimen>
+    <dimen name="padding_medium">6dp</dimen>
+    <dimen name="padding_large">8dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_x_small">2dp</dimen>
+    <dimen name="font_large">14sp</dimen>
+    <dimen name="font_medium">12sp</dimen>
+    <dimen name="space_item">4dp</dimen>
+    <dimen name="height_large">300dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_large">14dp</dimen>
+    <dimen name="line_space">2dp</dimen>
+    <dimen name="button_size">50dp</dimen>
+    <dimen name="font_x_large">16sp</dimen>
+</resources>
